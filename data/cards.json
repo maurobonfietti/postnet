@@ -1,0 +1,22 @@
+[
+    {
+        "bankName": "Visa Bank",
+        "cardNumber": "44443884",
+        "limit": 4000,
+        "client": {
+            "dni": "30265383",
+            "name": "Mauro",
+            "surname": "Bonfietti"
+        }
+    },
+    {
+        "bankName": "AMEX Bank",
+        "cardNumber": "33443884",
+        "limit": 4250,
+        "client": {
+            "dni": "31265384",
+            "name": "Juan",
+            "surname": "P\u00e9rez"
+        }
+    }
+]
